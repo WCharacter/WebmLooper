@@ -4,4 +4,4 @@ This program doesn't actually loop webm files, it just removes the real duration
 so your video already should be looped by you and be long enought to create an illusion of looping. In discord duration of this video will increase until the end of the video.
 
 # Usage
-WebmLooper.exe <filename> [<filename> ...]
+```WebmLooper.exe <filename> [<filename> ...]```
